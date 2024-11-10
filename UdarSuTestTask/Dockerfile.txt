@@ -1,0 +1,5 @@
+FROM eclipse-temurin:23
+WORKDIR /app
+COPY /target/UdarSuTestTask-0.0.1-SNAPSHOT.jar /app/UdarSuTestTask-0.0.1-SNAPSHOT.jar
+EXPOSE 8585
+ENTRYPOINT ["java", "-jar", "UdarSuTestTask-0.0.1-SNAPSHOT.jar"]

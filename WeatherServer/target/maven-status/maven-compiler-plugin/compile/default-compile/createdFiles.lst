@@ -1,0 +1,5 @@
+com/VI__236/WeatherServer/services/TemperatureService.class
+com/VI__236/WeatherServer/controllers/TemperatureController.class
+com/VI__236/WeatherServer/WeatherServerApplication.class
+com/VI__236/WeatherServer/dto/WeatherDto.class
+com/VI__236/WeatherServer/services/TemperatureServiceImplementation.class

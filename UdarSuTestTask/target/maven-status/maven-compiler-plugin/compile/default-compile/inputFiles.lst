@@ -1,0 +1,9 @@
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/WeatherApp.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/controllers/WeatherController.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/dto/NumOfDays.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/dto/WeatherDto.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/mappers/WeatherMapper.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/models/Weather.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/services/WeatherService.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/services/WeatherServiceImplementation.java
+/home/vlad-236/Java_projects/Udar.suTestTask/UdarSuTestTask/src/main/java/com/VI__236/UdarSuTestTask/utils/ApiClient.java

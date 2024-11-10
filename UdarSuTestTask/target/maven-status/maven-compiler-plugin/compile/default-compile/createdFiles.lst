@@ -1,0 +1,9 @@
+com/VI__236/UdarSuTestTask/services/WeatherServiceImplementation.class
+com/VI__236/UdarSuTestTask/services/WeatherService.class
+com/VI__236/UdarSuTestTask/WeatherApp.class
+com/VI__236/UdarSuTestTask/models/Weather.class
+com/VI__236/UdarSuTestTask/dto/NumOfDays.class
+com/VI__236/UdarSuTestTask/mappers/WeatherMapper.class
+com/VI__236/UdarSuTestTask/dto/WeatherDto.class
+com/VI__236/UdarSuTestTask/utils/ApiClient.class
+com/VI__236/UdarSuTestTask/controllers/WeatherController.class

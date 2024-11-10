@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+
+  weather-app:
+    image: client:0.0.1
+    build:
+      context: ./UdarSuTestTask
+      dockerfile: Dockerfile.txt
+    ports:
+      - "8585:8585"
+
+
+  weather-server:
+    image: server:0.0.1
+    build:
+      context: ./WeatherServer
+      dockerfile: Dockerfile.txt
+    ports:
+      - "8686:8686"

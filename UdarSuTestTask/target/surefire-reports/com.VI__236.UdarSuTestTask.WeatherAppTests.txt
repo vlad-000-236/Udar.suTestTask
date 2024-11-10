@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.VI__236.UdarSuTestTask.WeatherAppTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.870 s -- in com.VI__236.UdarSuTestTask.WeatherAppTests
